@@ -1,0 +1,4 @@
+Best of Strategy:
+
+The Martingale system worked best for me. 
+Since the chances of winning consecutive times are pretty slim, we can yield a better profit by waging double the amount we lost.
